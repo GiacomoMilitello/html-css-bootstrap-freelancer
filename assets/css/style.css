@@ -4,15 +4,12 @@
 img{
     width: 100%;
 }
-.button{
+/* .button{
     border: 1px solid white;
     border-radius: 20px;
     color: white;
-}
-svg{
-    height: 25px;
-    width: 25px;
-}
+} */
+
 /* -- COLORS -- */
 .green{
     background-color: #69b79c;
