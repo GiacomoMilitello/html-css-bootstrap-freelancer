@@ -18,18 +18,15 @@
 }
 
 /* -- ELEMENTS -- */
-img{
-    width: 100%;
-}
 .trattino::after,
 .trattino::before{
     content: "-";
     margin-inline: 5px;
     color: white;
 }
-input{
+/* input{
     width: 100%;
 }
 input:last-of-type{
     height: 150px;
-}
+} */
