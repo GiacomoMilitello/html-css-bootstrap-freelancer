@@ -16,11 +16,3 @@
 .green-link{
     color: #69b79c;
 }
-
-/* -- ELEMENTS -- */
-.trattino::after,
-.trattino::before{
-    content: "-";
-    margin-inline: 5px;
-    color: white;
-}
